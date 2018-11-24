@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543095090 source:c:\users\usuario\desktop\projeto pcd\main.cpp
+	<stdio.h>
+	<thread>
+	<stdlib.h>
+	<iostream>
+
